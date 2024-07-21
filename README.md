@@ -8,7 +8,9 @@ This repository contains code for various calculations related to spacecraft des
   - `ADCS.mlx`: MATLAB script for ADCS calculations.
   - `SpaceCraft_Parameters.m`: MATLAB script for spacecraft parameters related to ADCS.
 - **Orbit/**
-  - `Preliminary_Calculations.script`: GMAT script for preliminary orbit calculations.
+  - `Preliminary_Calculations.script`: GMAT script for orbit calculations.
+  - `Orbit_Calculation.m`: MATLAB script for semi-major-axis calculations.
+  - `GMAT_Data_Processing`: MATLAB script for GMAT data processing.
 - **Payload/**
   - `ARRAY.m`: MATLAB script for payload array calculations.
   - `CASSEGRAIN.m`: MATLAB script for Cassegrain calculations.
